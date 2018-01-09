@@ -1,9 +1,10 @@
 *{
 	margin: 15px;
 	padding: 12px;
-
 }
+
 @import url('https://fonts.googleapis.com/css?family=Khula');
+
 html {
 	height:100%;
 	margin: 0;
@@ -16,7 +17,7 @@ body {
 	font-family: 'Khula', sans-serif;
 	font-size: 12pt;
 	color: black;}
-divA{
+div{
 	width:33%;
 	height:33px;
 	margin-left: 15px;
